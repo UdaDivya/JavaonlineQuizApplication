@@ -25,7 +25,6 @@ The application allows users to participate in quizzes, answer multiple-choice q
 * **MySQL**
 * **JDBC (Java Database Connectivity)**
 * **Maven**
-* **Git & GitHub**
 
 ---
 
